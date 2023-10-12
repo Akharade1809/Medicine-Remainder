@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">MedicineReminder</string>
+    
+    <string-array name="timeOftheDay">
+        <item>Morning</item>
+        <item>Afternoon</item>
+        <item>Evening</item>
+        <item>Night</item>
+
+    </string-array>
+
+</resources>
